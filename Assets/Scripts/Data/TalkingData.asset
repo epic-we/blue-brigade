@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558587639ac60614b8018745b4ae918f, type: 3}
+  m_Name: TalkingData
+  m_EditorClassIdentifier: 
+  bookColors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  bookShapes:
+  - book: {fileID: 21300000, guid: 48e9e8f25569e204ba29dda6a7aa5ba0, type: 3}
+    uiBook: {fileID: 21300000, guid: 5f552663d31839a46917ec643420ef78, type: 3}
+  - book: {fileID: 21300000, guid: 17633f878e70b9b459b65013815d2c47, type: 3}
+    uiBook: {fileID: 21300000, guid: 6f8788338567daa4c9e00b8f8b249224, type: 3}
+  - book: {fileID: 21300000, guid: bacc6ce05a46d414bada63b4fe7dd420, type: 3}
+    uiBook: {fileID: 21300000, guid: e50ce9e5b24be8a48a321d098c6eb3ac, type: 3}
+  - book: {fileID: 21300000, guid: baa7c2437889d0f40a50af0972c530a5, type: 3}
+    uiBook: {fileID: 21300000, guid: a2c0479320d4c5742afd81f5e6a01235, type: 3}
+  - book: {fileID: 21300000, guid: 53d17a48bd9cf5a4393ec3ed1a3d49d8, type: 3}
+    uiBook: {fileID: 21300000, guid: 9c00b44e5021804498aacd84d65061ce, type: 3}
+  - book: {fileID: 21300000, guid: 63006947910ab30408858f861ada2c20, type: 3}
+    uiBook: {fileID: 21300000, guid: 69beae7cb60d3344d9cc920a83abe358, type: 3}
+  - book: {fileID: 21300000, guid: b89137d6f17fda44d98d6fe335c72a0c, type: 3}
+    uiBook: {fileID: 21300000, guid: 545c3b11ae8057a46afdca0bdaa53373, type: 3}
+  - book: {fileID: 21300000, guid: 5a8b8802d3f7e7742a51d76058f0fcc5, type: 3}
+    uiBook: {fileID: 21300000, guid: e8fa9ca2772c8cf4a86a2b0b357ea180, type: 3}
+  - book: {fileID: 21300000, guid: 14c9a01e4637b2f42acea206c9325256, type: 3}
+    uiBook: {fileID: 21300000, guid: a532f62d253f2504797540982613355c, type: 3}
+  - book: {fileID: 21300000, guid: 53a5da85300e06445b3f7e37c54e16e8, type: 3}
+    uiBook: {fileID: 21300000, guid: 17755765d1801f04fb6e9498f5a3bc3b, type: 3}
+  footballTeamWinning:
+  - {fileID: 21300000, guid: adba5f6b23336704a8ae9f14f237e514, type: 3}
+  - {fileID: 21300000, guid: 4fd719355fb055c46bba13c2530eb074, type: 3}
+  - {fileID: 21300000, guid: e6ca4cf310a2d5a4ca8cda0082ac32ef, type: 3}
+  footballTeamLogo:
+  - {fileID: 21300000, guid: adba5f6b23336704a8ae9f14f237e514, type: 3}
+  - {fileID: 21300000, guid: 4fd719355fb055c46bba13c2530eb074, type: 3}
+  - {fileID: 21300000, guid: e6ca4cf310a2d5a4ca8cda0082ac32ef, type: 3}
+  topics:
+  - symbol: {fileID: 21300000, guid: d2840a8e87f099f43947b845c3437c01, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: eacca8be0702781468797b465b551458, type: 3}
+  - symbol: {fileID: 21300000, guid: b090acceb10e74745bb4e4962c33c15d, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 6595566ab2407954ba00e873c4e71bc3, type: 3}
+  - symbol: {fileID: 21300000, guid: 001befdec204a1c4bb1acfb655bb9771, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 8d8b405e5da107f42b8db060f98b2f12, type: 3}
+  - symbol: {fileID: 21300000, guid: 54fd4fd32a005104fa8adf9cde5e8b7b, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 8230eed80a561574e8fb82fd0e7d50c1, type: 3}
+  - symbol: {fileID: 21300000, guid: e8c745e476e160948ae06b66b31d15b7, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: e8c745e476e160948ae06b66b31d15b7, type: 3}
+  - symbol: {fileID: 21300000, guid: 0e87c77bcae43974ebdcf5738d3271e7, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 26cbe9282e6a0e34ba268bbbd167c08b, type: 3}
+  - symbol: {fileID: 21300000, guid: 85d687135bf58c243a02657336c4615d, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 7198d58a6411f3d48a11da54cee73944, type: 3}
+  - symbol: {fileID: 21300000, guid: fe3be8b44f7dbfd44b8d382412edf3a6, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 7e0bdf0a8a3fe1149a566045586fa763, type: 3}
+  - symbol: {fileID: 21300000, guid: 69e51b16af11dd3418e763bba6f0726f, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 6b683f7b9be94a2408b527a8ab50dce7, type: 3}
+  - symbol: {fileID: 21300000, guid: 8838a19a62057eb40bf2a31f778857a9, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: f80305e6601b5af4e9a10ece2102810b, type: 3}
+  - symbol: {fileID: 21300000, guid: ee2c08b7dbf201e4790645619d3f3047, type: 3}
+    type: 1
+    uiSymbol: {fileID: 21300000, guid: 5f77c27fa69753349b81187a99021323, type: 3}
+  alwaysBadTopics: []
+  hats:
+  - symbol: {fileID: 21300000, guid: c57d831daff60584d8b6a5e411498f7d, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 38db90efbb1ba584ea4ec20f1b6ffa39, type: 3}
+  - symbol: {fileID: 21300000, guid: dca627930427f2142bd4019186db9cc2, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 395b755e9e574c547b3b40997d6dedb9, type: 3}
+  - symbol: {fileID: 21300000, guid: c4e12b0c5b1a71745b09caf9aaa47b8a, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 50d1517c05f8961468aa9c8b5803584a, type: 3}
+  - symbol: {fileID: 21300000, guid: 844d8ffdf7f374b44b5765ea05d1e5df, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: a2ebf3a66015d0a469630c4611dfb1bc, type: 3}
+  - symbol: {fileID: 21300000, guid: a88108c8e4607e84f9a4b26112a492f3, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: c32147fffe33014499f9d19dc8e69a79, type: 3}
+  - symbol: {fileID: 21300000, guid: a8679644eb73d71409c6ec7de51fd392, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 47a49864f5f16984ab5ff9a16b2d56a9, type: 3}
+  - symbol: {fileID: 21300000, guid: 64e560fa5353cc348bb039a815678c4f, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: a4ceb74d0c1d14d409c9b535d53ac6da, type: 3}
+  - symbol: {fileID: 21300000, guid: 19ef63aee20fe7d46a212ef9893da886, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 6e9a728b7191dd042b3dde21a524d9c6, type: 3}
+  - symbol: {fileID: 21300000, guid: 3fb2184be9b53c44b97115b2a62ab2cf, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: dbc21866007db1540a058582b51c49d4, type: 3}
+  - symbol: {fileID: 21300000, guid: 3a022da1d89f03242a9f7f944341c8e9, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: fc0a15749762108488a4bdec6de988c8, type: 3}
+  - symbol: {fileID: 21300000, guid: 9e1fee9ce7270774587944711091766d, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 035474b9eefe86e4fb1750f30c28c747, type: 3}
+  - symbol: {fileID: 21300000, guid: 4e3f82e6462a99e4c87a12467b0998db, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 43932d2e0a8196a4fa569763e4681023, type: 3}
+  - symbol: {fileID: 21300000, guid: 2c1ecf4da5ae5824ab4bf1c48273309f, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: d03f0e017a6b68e4c96ba831b294ca84, type: 3}
+  - symbol: {fileID: 21300000, guid: 4ba67926a8a50784fb15ccb2b0a4e4f2, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: c90979b05e739904fa314af80ea8c60b, type: 3}
+  - symbol: {fileID: 21300000, guid: c9ec76807a66eee4b866419d308e0822, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 1b1227626c6a6da4386d41d69a8f79c8, type: 3}
+  - symbol: {fileID: 21300000, guid: 114c62d49cc58c544ba2b77423892969, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 01be39d7c10733e41ada6110dd2fd34d, type: 3}
+  - symbol: {fileID: 21300000, guid: 9ce4f464ce6735a419c4d8cfcf7b98a4, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: ca4805401fe704941944b4abe7f606b4, type: 3}
+  - symbol: {fileID: 21300000, guid: 0096b8d84404c2a46861c2f6e8361c21, type: 3}
+    type: 2
+    uiSymbol: {fileID: 21300000, guid: 89226e1e59da73f4e8ac8108c2eb33f3, type: 3}
+  singing: {fileID: 21300000, guid: 37d68e0366c22b949bf4cac0f5671ea9, type: 3}
+  radio:
+    symbol: {fileID: 21300000, guid: d1a76494a4ccc5645aaf13ce329f01b5, type: 3}
+    uiSymbol: {fileID: 21300000, guid: 6107ee844a1e1554386cb33e05518d02, type: 3}
+  specialItem:
+    symbol: {fileID: 21300000, guid: 767d1f5cdb5cb9e4eab13a001e327773, type: 3}
+    uiSymbol: {fileID: 21300000, guid: dccc4f01a31fc304f8438f4edd1deef7, type: 3}
+  specialHat:
+    symbol: {fileID: 21300000, guid: 3abd5af3ea513b648801c6e1b5f54c43, type: 3}
+    uiSymbol: {fileID: 21300000, guid: 21896ef89add5d0419f33065e3dbdbd7, type: 3}
+  specialTopic:
+    symbol: {fileID: 21300000, guid: 4fa31bffc0a764940bf05dc33542c5e6, type: 3}
+    uiSymbol: {fileID: 21300000, guid: 4fa31bffc0a764940bf05dc33542c5e6, type: 3}

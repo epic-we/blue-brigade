@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 851fea46f8c78654cbf58af1dce7d531
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bubbleParent: {instanceID: 0}
+  - cantSeeSprite: {fileID: 21300000, guid: ec8214d7d416a8746bb342b71e8e4269, type: 3}
+  - symbolPlace: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

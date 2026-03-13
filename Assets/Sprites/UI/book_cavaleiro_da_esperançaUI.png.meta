@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 6f8788338567daa4c9e00b8f8b249224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8413673709054463340
+    second: "book_cavaleiro_da_esperan\xE7aUI_0"
+  - first:
+      213: -1257687984428410927
+    second: "book_cavaleiro_da_esperan\xE7aUI_1"
+  - first:
+      213: -6758813600762845689
+    second: "book_cavaleiro_da_esperan\xE7aUI_2"
+  - first:
+      213: 5353893727546118618
+    second: "book_cavaleiro_da_esperan\xE7aUI_3"
+  - first:
+      213: -4624788753486361337
+    second: "book_cavaleiro_da_esperan\xE7aUI_4"
+  - first:
+      213: 6776816917945196964
+    second: "book_cavaleiro_da_esperan\xE7aUI_5"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_0"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1744
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0c3c29af53c470800000000000000
+      internalID: 8413673709054463340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_1"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1733
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71ed1117bcb8ee0800000000000000
+      internalID: -1257687984428410927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_2"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1747
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a37ff6ded332a0800000000000000
+      internalID: -6758813600762845689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_3"
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1725
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad11493aaf9dc4a40800000000000000
+      internalID: 5353893727546118618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_4"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 306
+        width: 1465
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4933c12371dfb0800000000000000
+      internalID: -4624788753486361337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "book_cavaleiro_da_esperan\xE7aUI_5"
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 794
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12bfde4171c0e50800000000000000
+      internalID: 6776816917945196964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "book_cavaleiro_da_esperan\xE7aUI_0": 8413673709054463340
+      "book_cavaleiro_da_esperan\xE7aUI_1": -1257687984428410927
+      "book_cavaleiro_da_esperan\xE7aUI_2": -6758813600762845689
+      "book_cavaleiro_da_esperan\xE7aUI_3": 5353893727546118618
+      "book_cavaleiro_da_esperan\xE7aUI_4": -4624788753486361337
+      "book_cavaleiro_da_esperan\xE7aUI_5": 6776816917945196964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
